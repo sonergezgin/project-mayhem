@@ -2,9 +2,9 @@ Package: mayhem123456
 Title: Veri analiz raporunu R paketi haline getimek
 Version: 0.0.0.9000
 Authors@R: 
-    person("Ahmet", "Cizmeli", , "ahmet@cizmeli.com", role = c("aut", "cre"),
+    person("Soner", "Gezgin", , "edirne.soner@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This is the package I created for BLM-4022 Bilgi Yönetim Sistemleri at Çanakkale 10 Mart Üniversitesi, Bilgisayar Mühendisliği Bölümü
+Description: This is the package I created for learning how to work with packages in R
 License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

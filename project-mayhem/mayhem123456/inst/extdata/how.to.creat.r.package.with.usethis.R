@@ -21,7 +21,7 @@ create_package(path)
 #At this point Rstudio will refresh and open a new R package space
 
 # 4. Use MIT License
-usethis::use_mit_license("Your Name")
+usethis::use_mit_license("Soner Gezgin")
 
 # 5. Create a Readme.md
 usethis::use_readme_md()
@@ -33,7 +33,7 @@ usethis::use_news_md()
 # is in R format already, run use_data(). This will create /data
 
 # DO NOT PUT csv, excel, json etc files under /data. Only .rda data
-x <- 1; y <- 2; usethis::use_data(x, y)
+#x <- 1; y <- 2; usethis::use_data(x, y)
 
 # If you have any kind of other files (PDF, Excel, csv, json etc) put the inside /inst/extdata
 # 8. Create unit test infrastructure
