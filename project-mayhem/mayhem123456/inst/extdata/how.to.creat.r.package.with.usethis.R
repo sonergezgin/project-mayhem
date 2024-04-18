@@ -16,7 +16,7 @@ setwd("path to where you want your project to be")
 
 # 3. Create empty R package : vizestudentnumber
 # If create_package() asks confirmation, say yes
-path <- file.path(getwd(), "vize123456")
+path <- file.path(getwd(), "mayhem123456")
 create_package(path)
 #At this point Rstudio will refresh and open a new R package space
 
