@@ -12,7 +12,7 @@ You can install the development version of mayhem123456 from [GitHub](https://gi
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("project-mayhem/project-mayhem")
+devtools::install_github("sonergezgin/project-mayhem")
 ```
 
 ## Example
